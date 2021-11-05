@@ -6,7 +6,7 @@ import java.util.Arrays;
 absolute difference you can get from any of the pairs you can of the pairs you can build
 using the integers of the list. For clarity, you are required to find min(abs(A[i] - A[j])), i != j,
 A being the list of integers. List size will be given in the first line of the input. List
-elements will be given in the second line, separated by a single blank space. */
+elements will be given in the second line, separated by a single blank space.*/
 
 public class Main {
 
